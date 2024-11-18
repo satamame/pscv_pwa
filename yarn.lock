@@ -3897,7 +3897,7 @@ __metadata:
     body-scroll-lock: "npm:^4.0.0-beta.0"
     dexie: "npm:^4.0.9"
     svelte: "npm:5.1.9"
-    svelte-check: "npm:^4.0.5"
+    svelte-check: "npm:^4.0.9"
     svelte-preprocess: "npm:^6.0.3"
     tslib: "npm:^2.8.1"
     typescript: "npm:^5.5.4"
@@ -4457,9 +4457,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"svelte-check@npm:^4.0.5":
-  version: 4.0.5
-  resolution: "svelte-check@npm:4.0.5"
+"svelte-check@npm:^4.0.9":
+  version: 4.0.9
+  resolution: "svelte-check@npm:4.0.9"
   dependencies:
     "@jridgewell/trace-mapping": "npm:^0.3.25"
     chokidar: "npm:^4.0.1"
@@ -4471,7 +4471,7 @@ __metadata:
     typescript: ">=5.0.0"
   bin:
     svelte-check: bin/svelte-check
-  checksum: 10c0/192ee83f83169408b5f0b819440349f53e256db868d59fdd2422e831ef581891f5f257632dd3e632b12518ca307e1f99ff97455f56c19c3d2a5ee7be6391a181
+  checksum: 10c0/374c2080fe2ef38f6da262b3305937ae3b872047696fe4be1c5b74e4fc9bfc6b04d4c0578b085e6e9689322858bcbb311c2741614429db7ea21d4ea6e3d65e49
   languageName: node
   linkType: hard
 
